@@ -3,7 +3,7 @@
  * @return {string}
  */
 function longestCommonPrefix(strs) {
-  const sorted = strs.toSorted();
+  const sorted = strs.toSorted((a, b) => a.localeCompare(b));
   const first = sorted[0];
   const last = sorted[sorted.length - 1];
   let result = "";
