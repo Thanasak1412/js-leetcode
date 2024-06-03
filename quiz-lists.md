@@ -1,0 +1,38 @@
+- [✓] 1. Two Sum 52.7% Easy
+- [] 13. Roman to Integer 61.4% Easy
+- [] 14. Longest Common Prefix 42.9% Easy
+- [] 20. Valid Parentheses 40.6% Easy
+- [] 21. Merge Two Sorted Lists 64.4% Easy
+- [] 26. Remove Duplicates from Sorted Array 56.0% Easy
+- [] 28. Find the Index of the First Occurrence in a String 42.5% Easy
+- [] 66. Plus One 45.4% Easy
+- [] 69. Sqrt(x) 38.9% Easy
+- [] 70. Climbing Stairs 52.9% Easy
+- [] 88. Merge Sorted Array 49.9% Easy
+- [] 94. Binary Tree Inorder Traversal 76.3% Easy
+- [] 101. Symmetric Tree 56.7% Easy
+- [] 104. Maximum Depth of Binary Tree 75.5% Easy
+- [] 108. Convert Sorted Array to Binary Search Tree 71.8% Easy
+- [] 118. Pascal's Triangle 74.5% Easy
+- [] 121. Best Time to Buy and Sell Stock 53.7% Easy
+- [] 125. Valid Palindrome 47.7% Easy
+- [] 136. Single Number 73.1% Easy
+- [] 141. Linked List Cycle 50.5% Easy
+- [] 160. Intersection of Two Linked Lists 57.7% Easy
+- [] 163. Missing Ranges 33.8% Easy
+- [] 169. Majority Element 64.9% Easy
+- [] 171. Excel Sheet Column Number 63.9% Easy
+- [] 190. Reverse Bits 58.9% Easy
+- [] 191. Number of 1 Bits 71.3% Easy
+- [] 202. Happy Number 56.2% Easy
+- [] 206. Reverse Linked List 76.7% Easy
+- [] 217. Contains Duplicate 61.8% Easy
+- [] 234. Palindrome Linked List 53.3% Easy
+- [] 242. Valid Anagram 64.7% Easy
+- [] 268. Missing Number 67.0% Easy
+- [] 283. Move Zeroes 61.8% Easy
+- [] 326. Power of Three 46.7% Easy
+- [] 344. Reverse String 78.6% Easy
+- [] 350. Intersection of Two Arrays II 56.5% Easy
+- [] 387. First Unique Character in a String 62.2% Easy
+- [] 412. Fizz Buzz
