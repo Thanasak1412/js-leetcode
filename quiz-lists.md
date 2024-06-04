@@ -5,7 +5,7 @@
 - [✓] 21. Merge Two Sorted Lists 64.4% Easy
 - [✓] 26. Remove Duplicates from Sorted Array 56.0% Easy
 - [✓] 28. Find the Index of the First Occurrence in a String 42.5% Easy
-- [] 66. Plus One 45.4% Easy
+- [✓] 66. Plus One 45.4% Easy
 - [] 69. Sqrt(x) 38.9% Easy
 - [] 70. Climbing Stairs 52.9% Easy
 - [] 88. Merge Sorted Array 49.9% Easy
