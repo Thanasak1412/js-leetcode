@@ -15,7 +15,6 @@ function inorderTraversal(root) {
   const stack = [];
   let current = root;
 
-  let i = 0;
   while (current || stack.length > 0) {
     while (current) {
       stack.push(current);
