@@ -13,7 +13,7 @@
 - [✓] 101. Symmetric Tree 56.7% Easy
 - [✓] 104. Maximum Depth of Binary Tree 75.5% Easy
 - [✓] 108. Convert Sorted Array to Binary Search Tree 71.8% Easy
-- [] 118. Pascal's Triangle 74.5% Easy
+- [✓] 118. Pascal's Triangle 74.5% Easy
 - [] 121. Best Time to Buy and Sell Stock 53.7% Easy
 - [] 125. Valid Palindrome 47.7% Easy
 - [] 136. Single Number 73.1% Easy
