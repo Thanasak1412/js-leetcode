@@ -16,7 +16,7 @@
 - [✓] 118. Pascal's Triangle 74.5% Easy
 - [✓] 121. Best Time to Buy and Sell Stock 53.7% Easy
 - [✓] 125. Valid Palindrome 47.7% Easy
-- [] 136. Single Number 73.1% Easy
+- [✓] 136. Single Number 73.1% Easy
 - [] 141. Linked List Cycle 50.5% Easy
 - [] 160. Intersection of Two Linked Lists 57.7% Easy
 - [] 163. Missing Ranges 33.8% Easy
