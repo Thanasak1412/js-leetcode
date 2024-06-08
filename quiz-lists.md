@@ -11,7 +11,7 @@
 - [✓] 88. Merge Sorted Array 49.9% Easy
 - [✓] 94. Binary Tree Inorder Traversal 76.3% Easy
 - [✓] 101. Symmetric Tree 56.7% Easy
-- [] 104. Maximum Depth of Binary Tree 75.5% Easy
+- [✓] 104. Maximum Depth of Binary Tree 75.5% Easy
 - [] 108. Convert Sorted Array to Binary Search Tree 71.8% Easy
 - [] 118. Pascal's Triangle 74.5% Easy
 - [] 121. Best Time to Buy and Sell Stock 53.7% Easy
