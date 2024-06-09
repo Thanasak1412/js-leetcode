@@ -22,8 +22,7 @@
 - [✓] 190. Reverse Bits 58.9% Easy
 - [✓] 191. Number of 1 Bits 71.3% Easy
 - [✓] 202. Happy Number 56.2% Easy
-- [] 206. Reverse Linked List 76.7% Easy
-- [] 217. Contains Duplicate 61.8% Easy
+- [✓] 217. Contains Duplicate 61.8% Easy
 - [] 234. Palindrome Linked List 53.3% Easy
 - [] 242. Valid Anagram 64.7% Easy
 - [] 268. Missing Number 67.0% Easy
