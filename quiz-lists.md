@@ -20,7 +20,7 @@
 - [✓] 169. Majority Element 64.9% Easy
 - [✓] 171. Excel Sheet Column Number 63.9% Easy
 - [✓] 190. Reverse Bits 58.9% Easy
-- [] 191. Number of 1 Bits 71.3% Easy
+- [✓] 191. Number of 1 Bits 71.3% Easy
 - [] 202. Happy Number 56.2% Easy
 - [] 206. Reverse Linked List 76.7% Easy
 - [] 217. Contains Duplicate 61.8% Easy
