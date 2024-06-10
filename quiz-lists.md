@@ -30,4 +30,4 @@
 - [✓] 344. Reverse String 78.6% Easy
 - [] 350. Intersection of Two Arrays II 56.5% Easy
 - [✓] 387. First Unique Character in a String 62.2% Easy
-- [] 412. Fizz Buzz
+- [✓] 412. Fizz Buzz
