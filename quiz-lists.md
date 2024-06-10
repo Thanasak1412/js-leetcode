@@ -25,7 +25,7 @@
 - [✓] 217. Contains Duplicate 61.8% Easy
 - [] 234. Palindrome Linked List 53.3% Easy
 - [] 242. Valid Anagram 64.7% Easy
-- [] 268. Missing Number 67.0% Easy
+- [✓] 268. Missing Number 67.0% Easy
 - [] 283. Move Zeroes 61.8% Easy
 - [] 326. Power of Three 46.7% Easy
 - [✓] 344. Reverse String 78.6% Easy
