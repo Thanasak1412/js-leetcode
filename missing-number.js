@@ -50,3 +50,23 @@ console.log(missingNumber(nums4));
 
 const nums5 = [0];
 console.log(missingNumber(nums5));
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+function missingNumber2(nums) {
+  nums.sort((a, b) => a - b);
+
+  for (let i = 0; i < nums.length; i++) {
+    const foundIndex = nums.findIndex((num) => num === i);
+
+    if (foundIndex === -1) {
+      return i;
+    }
+  }
+
+  return nums.length;
+}
+
+console.log(missingNumber2([3, 0, 1]));

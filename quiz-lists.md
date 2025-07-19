@@ -33,3 +33,4 @@
 - [✓] 412. Fizz Buzz
 - [✓] 633. Sum of Square Numbers 35.5% Medium
 - [✓] 189. Rotate Array
+- [✓] 268. Missing Number
