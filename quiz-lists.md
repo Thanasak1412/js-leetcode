@@ -32,3 +32,4 @@
 - [✓] 387. First Unique Character in a String 62.2% Easy
 - [✓] 412. Fizz Buzz
 - [✓] 633. Sum of Square Numbers 35.5% Medium
+- [✓] 189. Rotate Array
