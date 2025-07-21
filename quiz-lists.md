@@ -34,3 +34,4 @@
 - [✓] 633. Sum of Square Numbers 35.5% Medium
 - [✓] 189. Rotate Array
 - [✓] 268. Missing Number
+- [✓] 1957. Delete Characters to Make Fancy String
