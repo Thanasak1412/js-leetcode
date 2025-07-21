@@ -35,3 +35,4 @@
 - [✓] 189. Rotate Array
 - [✓] 268. Missing Number
 - [✓] 1957. Delete Characters to Make Fancy String
+- [✓] 112. Path Sum
