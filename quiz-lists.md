@@ -36,3 +36,4 @@
 - [✓] 268. Missing Number
 - [✓] 1957. Delete Characters to Make Fancy String
 - [✓] 112. Path Sum
+- [✓] 168. Excel Sheet Column Title
